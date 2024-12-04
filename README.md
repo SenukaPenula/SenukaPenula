@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td>
-      🌟 Total Stars:
+      🌟 Total Stars: 8
     </td>
     <td>
       <b>0</b>
