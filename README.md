@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/SenukaPenula?style=social)](https://github.com/SenukaPenula)
+[![GitHub followers](https://img.shields.io/github/followers/SenukaPenula?style=social)](https://github.com/SenukaPenula/)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://youtube.com/channel/UCOlXwxUrDW2DlYw--0qnqsw)
 
 </div>
@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td>
-      🌟 Total Stars: 8
+      🌟 Total Stars: 
     </td>
     <td>
       <b>0</b>
